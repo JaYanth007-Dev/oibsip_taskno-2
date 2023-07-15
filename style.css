@@ -84,12 +84,11 @@ body {
  .first-para{
   padding: 20px;
   border: 2px solid white;
-  /* background-color: #412adc; */
+  
  }
  .second-para{
     padding: 20px;
         border: 2px solid white;
-        /* background-color: #412adc; */
  }
 
  a {
